@@ -39,7 +39,7 @@ const getAccountIdByNameRepositories = async (name) => {
     name
   );
 
-  return getProduct[0].id;
+  return getProduct.length > 0 ? getProduct[0].id : null;
 };
 
 const getAccountPasswordByNameRepositories = async (name) => {

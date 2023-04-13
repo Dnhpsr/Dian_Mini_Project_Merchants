@@ -73,7 +73,7 @@ CREATE TABLE `products` (
 Clone the project:
 
 ```
-git clone https://github.com/anggiirawan13/mini-project-merchant-service.git
+git clone https://github.com/Dnhpsr/Dian_Mini_Project_Merchants.git
 ```
 
 Go to the project directory:
@@ -110,7 +110,8 @@ DB_NAME=merchant_service
 
 ## Postman collection
 
-Here is the postman collection and environment if you need to run the API using postman -> [Environment & Collection](https://api.postman.com/collections/22921760-94a6b7ab-eb93-470c-af49-57ff765d9b60?access_key=PMAT-01GXV6W4Z9DMH67Y6RVYWM93Y0)
+- Here is the postman collection if you need to run the API using postman: [./Mini Project Merchant Service.postman_collection.json]
+- Here is the postman environment if you need to run the API using postman: [./Mini Project Merchant Service.postman_environment.json]
 
 ## API Endpoint
 

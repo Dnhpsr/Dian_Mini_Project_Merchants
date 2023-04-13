@@ -2,7 +2,7 @@
   "name": "mini-project-merchant-service",
   "version": "1.0.0",
   "private": true,
-  "author": "Anggi Irawan",
+  "author": "Dian Hapsari",
   "description": "Mini Project Merchant Service",
   "type": "module",
   "main": "app.js",
